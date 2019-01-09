@@ -1,6 +1,6 @@
 # Coursera-Certificates
 
-This repo stores the course cerficates that I earned by taking online courses on Coursera, a popular MOOC platform.
+This repo stores the course certificates that I earned by taking online courses on Coursera, a popular MOOC platform.
 
 ### Contents
 
