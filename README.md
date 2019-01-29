@@ -8,6 +8,7 @@ This repo stores the course certificates that I earned by taking online courses 
 * Managing Big Data with MySQL, offered by Duke University on Coursera
 * Algorithms, a 4-course specialization offered by Stanford on Couusera
 * Programming Languages, offered by University of Washington on Coursera
+* HTML, CSS, and Javascript for Web Developers, offered by John Hopkins University on Coursera
 * Advanced Data Structures, offered by UCSD on Coursera
 * Data Structures and Performance, offered by UCSD on Coursera
 * OOP in Java, offered by UCSD on Coursera
